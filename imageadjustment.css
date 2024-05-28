@@ -1,0 +1,14 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper {
+    margin: 0 auto;
+    width: 50%;
+}
+
+.img-eye {
+    width: 80px;
+    height: 70px;
+}
